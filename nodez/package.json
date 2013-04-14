@@ -1,0 +1,20 @@
+{
+  "name": "playground-nodez",
+  "version": "0.0.0",
+  "description": "hackin ftw",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/6a68/playground.git"
+  },
+  "dependencies": {
+    "q": "~0.9.2",
+    "mocha": "~1.9.0",
+    "mocha-as-promised": "~1.2.1"
+  },
+  "author": "Jared Hirsch <ohai@6a68.net>",
+  "license": "Apache 2"
+}
